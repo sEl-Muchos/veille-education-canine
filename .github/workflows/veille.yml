@@ -1,0 +1,36 @@
+name: Veille éducation canine
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  veille:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        run: |
+          pip install feedparser google-genai
+
+      - name: Lancer la veille
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python veille.py
+
+      - name: Enregistrer le digest
+        run: |
+          git config user.name "veille-canine-bot"
+          git config user.email "actions@github.com"
+          git add digest.md
+          git diff --cached --quiet || git commit -m "Veille canine automatique"
+          git push
