@@ -1,3 +1,3 @@
-# Veille éducation canine
+# 🐕 Veille éducation canine
 
-Aucun nouvel article récupéré.
+Aucune nouvelle information pertinente n'a été détectée.
