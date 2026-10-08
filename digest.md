@@ -6,4 +6,4 @@
 
 ### SCC Engagement - Centrale Canine
 **Source :** Centrale Canine
-**Lien :** https://news.google.com/rss/articles/CBMipwFBVV95cUxQbFo2LWFjaDFPMk40YUk0N3pNQk5wTGVmUFZNZ0ZzMG9yYUUyckdkR3hacWZ4SGZ1QVlSQ28tY2pyR2h4M0RHU0VTQmNlbEVRRVB0V09vRXA0WUJFUTNVQzRWQ2FyeWUzWFpicXkzQjVDSnhoQkljbUR3TThXeFcxcHVoTDh1dlNRekp3NjNYZ1NsVGNacmJqVVhBYWRFUWtVQ0JTaWl4WQ?oc=5
+**Lien :** https://news.google.com/rss/articles/CBMipwFBVV95cUxQRWdvbWY3Szd1TDhTeGEyVUx5ek10dW4xZlpUX28wWGM0b2xrQmtDaFotb3EyMmhnTGVJN2p2ekp0bDR3RnJZTzJOWTFwM0Jmc20zb3ZjX1RkRWtwaVI5SlNkMXJnbGZfSXM0Zy0yVU1HNnJfMF9ic1FhNlBqS2ZDWUJJV1c3UHFLTjBhZlJCTDRkY1RLSl9SeFBSOFZKY19KamhJT1dBNA?oc=5
